@@ -1,0 +1,15 @@
+beautifulsoup4
+Flask
+gunicorn
+textblob
+requests[socks]
+urllib3
+pymongo
+lxml
+selenium
+demjson
+flask
+pytest
+requests-futures
+demjson
+raven[flask]
